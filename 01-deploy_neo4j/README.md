@@ -1,4 +1,4 @@
-# Neo4j Hands On Lab - Creating a Graph of the London Public Transportation Network 
+# Lab 1 - Deploy Neo4j
 
 Neo4j has three major products:
 * Graph Database (GDB) - a native graph data store built from the ground up to leverage not only data but also data relationships.
